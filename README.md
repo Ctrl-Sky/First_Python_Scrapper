@@ -1,2 +1,2 @@
 # First_Python_Scrapper
-My first python web scrapper designed to scrap books from website: Books to Scrape
+My first Python web scrapper that experiments with the BeautifulSoup4 library. The algorithm filters and scraps from the website Books to Scrape, and quickly writes the scraped information into a csv file. 
